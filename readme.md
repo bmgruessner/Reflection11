@@ -15,4 +15,4 @@ The bulk of CellNetVis is coded in Javascript using simple circle elements to ma
 
 Source: Heberly H, et al (2017). CellNetVis: a web tool for visualization of biological networks using force-directed layout constrained by cellular components. BMC Bioinformatics, 18(Suppl10):395. 
 
-![alt text](https://github.com/bmgruessner/Reflection11/R11.png "Figure 1")
+![alt text](https://github.com/bmgruessner/Reflection11/blob/master/R11.png "Figure 1")
